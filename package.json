@@ -28,6 +28,16 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
+  "lint-staged": {
+    "*.js": [
+      "yarn lint:fix",
+      "git add --force"
+    ],
+    "*.json": [
+      "prettier --write",
+      "git add --force"
+    ]
+  },
   "dependencies": {
     "@babel/polyfill": "^7.10.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
