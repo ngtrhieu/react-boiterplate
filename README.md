@@ -1,4 +1,4 @@
-# Boiterplater for ReactJS
+# boilerplate for ReactJS
 
 <div align="center">
 <a href="https://conventionalcommits.org"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" /></a>
@@ -6,15 +6,15 @@
 
 ## Credits
 
-Heavily inspired (with some scripts blantantly copied) from [Max Stoiber](https://twitter.com/mxstbr)'s [React Boiterplate](https://github.com/react-boilerplate/react-boilerplate/blob/master/package.json).
+Heavily inspired (with some scripts blantantly copied) from [Max Stoiber](https://twitter.com/mxstbr)'s [React boilerplate](https://github.com/react-boilerplate/react-boilerplate/blob/master/package.json).
 
 ## Motivation
 
-This is a simple React project boiterplate meant for beginner users who have at least gone through a few React tutorials and want to experience writing React codes.
+This is a simple React project boilerplate meant for beginner users who have at least gone through a few React tutorials and want to experience writing React codes.
 
 Therefore, my goal is to provide a vscode/prettier/eslint pre-configured environment so that learners can consult with intellisense, eslint and prettier on their journey to conquer React.
 
-If you are looking for a production-grade boiterplate, check out [Max Stoiber](https://twitter.com/mxstbr)'s [React Boiterplate](https://github.com/react-boilerplate/react-boilerplate/blob/master/package.json) instead
+If you are looking for a production-grade boilerplate, check out [Max Stoiber](https://twitter.com/mxstbr)'s [React boilerplate](https://github.com/react-boilerplate/react-boilerplate/blob/master/package.json) instead
 
 ## Development environment
 
@@ -24,13 +24,13 @@ The project come pre-configured with:
 
 2. **Eslint/Prettier**: spotting problems, enforcing standard coding style. Your beacon for the otherwise lawless place (urgh, Javascript...).
 
-3. **React/ReactDOM**: just because this is a React boiterplate.
+3. **React/ReactDOM**: just because this is a React boilerplate.
 
 4. **Commitizen**: for enforcing [conventional commits](https://conventionalcommits.org) standard.
 
 5. Others goodness: axios, lodash/fp, winston, etc... just because they are good.
 
-However, since this boiterplate is meant to be a React learning environment, I have omitted some standard React tools/libraries such as:
+However, since this boilerplate is meant to be a React learning environment, I have omitted some standard React tools/libraries such as:
 
 1. **ReactRouter**: Now I am rethinking it, I should have included this.
 
